@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Ausweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACF8E0E6C1F8476C8A78B2DA31F02895 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_33613332C3314829B85ED61B1DA93100 }}
